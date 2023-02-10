@@ -4,13 +4,13 @@
 
 _Avancé :_
 
-- Initialisation des couleurs, musiques, images
-- Création du plateau de jeux
-- Début d'interface
+- 
+- 
+- 
 
 _Problème rencontré :_
 
-- Problème dans l'affichage (Réglé)
+- 
 
 _____________________________________________________________________________________________________________________________________________________________
 
@@ -18,25 +18,25 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Finition de l'interface graphique
-- Création des boules de score
-- Création du score
+- 
+- 
+- 
 
 _Problème rencontré :_
 
-- Boules de score intouchable (Réglé)
+- 
 _____________________________________________________________________________________________________________________________________________________________
 
 **JOUR 3**
 
 _Avancé :_
 
-- Iniatialiation des personnages
-- Création des mouvements 
+- 
+- 
 
 _Problème rencontré :_
 
-- Personnage qui ne bouge pas (Réglé)
+- 
 
 
 _____________________________________________________________________________________________________________________________________________________________
@@ -45,13 +45,13 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Création des sprites
-- Définition des mouvements de fantôm
-- Finition du design des personnages
+- 
+- 
+- 
 
 _Problème rencontré :_
 
-- Mouvement bug des fantom (réglé)
+- 
 
 
 _____________________________________________________________________________________________________________________________________________________________
@@ -60,8 +60,8 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Assignation des touches clavier
-- Réglage de bug
+- 
+- 
 
 _Problème rencontré :_
 
@@ -72,13 +72,13 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Faire en sorte que les fantom aient des mouvements logique
-- Ecran de game Over et de victoire
+- 
+- 
 
 _Problème rencontré :_
 
-- Petit problème dans la logique des mouvements (réglé)
-- Game over qui fermais la fenêtre (réglé)
+- 
+- 
 
 _____________________________________________________________________________________________________________________________________________________________
 
@@ -86,8 +86,8 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Bouton relancer et quitter
-- Finiton et réglage de bug
+- 
+- 
 
 _Problème rencontré :_
 
@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 _Avancé :_
 
-- Finition et réglgage de bug
+- 
 - 
 
 _Problème rencontré :_
